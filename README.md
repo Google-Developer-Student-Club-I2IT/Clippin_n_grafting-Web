@@ -10,9 +10,6 @@ If you are new here, we would be excited to be a part of your open source journe
 3. [Cloning a repo](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request)
 4. [Making your first PR](https://opensource.com/article/19/7/create-pull-request-github)
 
-<br>
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
