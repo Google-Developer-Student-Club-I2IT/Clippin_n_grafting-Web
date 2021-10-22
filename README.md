@@ -1,4 +1,6 @@
+# Clipping' n Grafting
 
+Presenting you, 🎉<b> Clippin' n Grafting </b>🎉, your very own ecommerce website displaying all your artsy-craftsy stuff. Not only the exposure, but we aim to provide budding artists, budding entrepreneurs and just art enthusiasts a platform to sell, buy and just cruise through the amazing range of artistry that people desire to showcase! 
 
 # New to GitHub? 🙏🏼
 If you are new here, we would be excited to be a part of your open source journey! Below articles will help you to take your initial steps in any case feel free to reachout.
