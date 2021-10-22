@@ -1,7 +1,7 @@
 
 
 # New to GitHub? 🙏🏼
-If you are new here, I am excited to be a part of your open source journey! Below articles will help you to take your initial steps in any case feel free to reachout.
+If you are new here, we would be excited to be a part of your open source journey! Below articles will help you to take your initial steps in any case feel free to reachout.
 
 1. [Getting started with open source](https://rohinirg.hashnode.dev/getting-started-with-your-open-source-journey)  
 2. [Forking a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
